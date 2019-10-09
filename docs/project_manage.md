@@ -100,55 +100,6 @@ ip:port/pas/project/detail?id=bceb9e46155e429fb5f45d2b8d2a137f
 目标值为 350km/h。正线设桥梁 72 座/95.44km，占正线长度的 42.5%；正线设隧道 54 座/98.743km，占正线长度的 44.0%。全线共设绍兴北、新绍兴北、东关、三界、嵊州新昌、天台、临海、台州中心、温岭等 9 座车站，温岭地区新建动车运用所 1 处、绍兴地区新建动车存车场 1 处，新建牵引变电所 5 座。", 
         "units": [
             {
-                "unitId": "441f9208c12f11e8af7de0d55e9232d2", 
-                "groupCode": "101004", 
-                "name": "环保一局", 
-                "type": "101004", 
-                "typeDesc": "环评单位"
-            }, 
-            {
-                "unitId": "57a27e36e03811e988e7e0d55e9232d2", 
-                "groupCode": "unit002", 
-                "name": "2019工程监理单位", 
-                "type": "101010", 
-                "typeDesc": "监理单位"
-            }, 
-            {
-                "unitId": "86c57ae9c12e11e8af7de0d55e9232d2", 
-                "groupCode": "101001", 
-                "name": "中铁3局", 
-                "type": "101001", 
-                "typeDesc": "建设单位"
-            }, 
-            {
-                "unitId": "5ae6bba9bd7511e8af7de0d55e9232d2", 
-                "groupCode": "101001", 
-                "name": "杭绍台铁路筹建协调小组", 
-                "type": "101001", 
-                "typeDesc": "建设单位"
-            }, 
-            {
-                "unitId": "a826ce78c12f11e8af7de0d55e9232d2", 
-                "groupCode": "101005", 
-                "name": "水保一局", 
-                "type": "101005", 
-                "typeDesc": "水保单位"
-            }, 
-            {
-                "unitId": "625c79fec12f11e8af7de0d55e9232d2", 
-                "groupCode": "101004", 
-                "name": "环保二局", 
-                "type": "101004", 
-                "typeDesc": "环评单位"
-            }, 
-            {
-                "unitId": "57a27e36e03811e988e7e0d55e9232d2", 
-                "groupCode": "unit001", 
-                "name": "2019工程监理单位", 
-                "type": "101010", 
-                "typeDesc": "监理单位"
-            }, 
-            {
                 "unitId": "f15166eec12e11e8af7de0d55e9232d2", 
                 "groupCode": "101003", 
                 "name": "中国设计二院", 
@@ -157,18 +108,7 @@ ip:port/pas/project/detail?id=bceb9e46155e429fb5f45d2b8d2a137f
             }
         ], 
         "attachments": [
-            {
-                "name": "微信图片_201808101539.jpg", 
-                "type": "0", 
-                "typeDesc": "项目照片", 
-                "url": "/download/821"
-            }, 
-            {
-                "name": "改后2_20190307145327.jpg", 
-                "type": "1", 
-                "typeDesc": "项目照片", 
-                "url": "/download/832"
-            }, 
+            
             {
                 "name": "IMG_20181022_152508.jpg", 
                 "type": "0", 
@@ -211,7 +151,8 @@ ip:port/pas/project/detail?id=bceb9e46155e429fb5f45d2b8d2a137f
                 "longitude": 120.583384, 
                 "latitude": 30.038617, 
                 "pointType": "标段端点", 
-                "pointSerialNumber": "DGK0+758.3"
+                "pointSerialNumber": "DGK0+758.3",
+                "pointName": null
             }
         ]
     }, 
