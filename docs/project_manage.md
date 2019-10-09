@@ -12,7 +12,7 @@
 |:---|:---|:---|
 |code|number|返回码|
 |resultMsg | string | 返回码描述| 
-|[data](#查询项目详情泛型数据)| object | 泛型数据 |
+|[data](#查询项目详情泛型数据)| object | 查询项目详情泛型数据 |
 
 #### 查询项目详情泛型数据
 | 参数名称 | 数据类型 | 描述 |
@@ -32,8 +32,8 @@
 |investment|number|项目投资金额（千万）
 |investmentInEnvironmental|number| 环保投资金额（千万）|
 |describe|string|项目描述
-|[units](#关联单位列表)|array[object]|该项目下关联的单位列表|
-|[attachments](#项目详情附件列表)|array[object]|附件列表
+|[units](#关联单位列表)|array[object]|关联单位列表|
+|[attachments](#项目详情附件列表)|array[object]|项目详情附件列表
 |[progresses](#项目进度列表)|array[object]|项目进度列表
 |[startPoints](#项目起点)|array[object]|项目起点|
 
