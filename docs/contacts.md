@@ -105,6 +105,7 @@
     "success": true
 }
 ```
+---
 ## 查询联系人详情
 |接口地址|请求方式|
 |:---|:---|
@@ -168,3 +169,4 @@ ip:port/pas/contact/detail?id=38720b1119d74f47b0f081be3e8de549
     "success": true
 }
 ```
+--- 
