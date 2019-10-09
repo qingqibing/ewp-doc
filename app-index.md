@@ -10,6 +10,7 @@
 对接人: 方云龙
 ```
 - [查询项目详情](docs/project_manage.md#查询项目详情)
+- [查询项目下的标段列表](docs/project_manage.md#查询项目下的标段列表)
 
 # [项目联系人](docs/contacts.md)
 ```
